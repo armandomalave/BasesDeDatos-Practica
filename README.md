@@ -1,14 +1,14 @@
-💾 Bases de Datos - Evaluación Práctica.
+### 💾 Bases de Datos - Evaluación Práctica.
 
 ---
 
-## 📖 Descripción del Proyecto
+### 📖 Descripción del Proyecto
 
 Esta es un repositorio creado para mostrar los conocimientos adquiridos en la creación de repositorios y el uso de Github, como herramienta para manejar y gestionar los mismos
 
 ---
 
-## ⚙️ Instrucciones de Instalación
+### ⚙️ Instrucciones de Instalación
 
 Para poder clonar este repositorio, simplemente usa el link siguiente:
 
@@ -20,13 +20,11 @@ Luego puedes descargar los scripts de instalación y ejecutarlos en MySQL para p
 
 ---
 
-## 🖥️ Uso
-
-###
+### 🖥️ Uso
 
 ---
 
-## 🧑🏼‍💻 Contribución
+### 🧑🏼‍💻 Contribución
 
 Cómo Contribuir
 
@@ -81,4 +79,4 @@ Cómo Contribuir
 
 ---
 
-## 🧾 Licencia
+### 🧾 Licencia
