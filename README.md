@@ -1,5 +1,4 @@
 ### 💾 Bases de Datos - Evaluación Práctica.
-
 ---
 
 ### 📖 Descripción del Proyecto
@@ -9,7 +8,7 @@ Esta es un repositorio creado para mostrar los conocimientos adquiridos en la cr
 ---
 
 ### ⚙️ Instrucciones de Instalación
-
+---
 Para poder clonar este repositorio, simplemente usa el link siguiente:
 
 ```bash
@@ -21,6 +20,14 @@ Luego puedes descargar los scripts de instalación y ejecutarlos en MySQL para p
 ---
 
 ### 🖥️ Uso
+---
+Cuando ya tengas creada la base de datos en MySQL, puedes hacer consultas de diversos tipos. Tomemos por ejemplo un Join de las tres tablas en donde se muestra los nombres de los empleados, su edad y el departamento donde trabajan.
+
+  ```sql
+    SELECT e.nombre_e AS Empleado, ed.edad AS Edad, d.nombred AS Departamento FROM empleado e 
+    JOIN departamento d ON e.iddepartamento = d.iddepartamento
+    JOIN edad ed ON e.idempleado = ed.empleado_idempleado;
+```
 
 ---
 
@@ -80,3 +87,5 @@ Cómo Contribuir
 ---
 
 ### 🧾 Licencia
+
+Este proyecto se encuentra bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
