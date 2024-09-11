@@ -1,0 +1,8 @@
+ ###  💾 ¿Como instalar el modelo de datos?
+
+ * Simplemente descarga el archivo llamado Testjoin.mwb y ejecutalo usando MySQL
+* Ve al menu de Database
+* Selecciona Forward engineer
+* Sigue los pasos a continuación.
+ 
+ Si fue exitoso, luego de ejecutarlo, refresca el MySQL y listo! debe de aparecer la base de datos testjoin.
