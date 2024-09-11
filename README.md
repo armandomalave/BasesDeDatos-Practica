@@ -13,7 +13,7 @@ Esta es un repositorio creado para mostrar los conocimientos adquiridos en la cr
 Para poder clonar este repositorio, simplemente usa el link siguiente:
 
 ```bash
-https://github.com/armandomalave/BasesDeDatos-Practica.git
+git clone https://github.com/armandomalave/BasesDeDatos-Practica.git
 ```
 
 Luego puedes descargar los scripts de instalación y ejecutarlos en MySQL para poder recrear la base de datos.
